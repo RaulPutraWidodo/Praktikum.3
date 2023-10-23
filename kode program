@@ -1,0 +1,20 @@
+# Menghitung luas lingkaran
+def hitung_luas_lingkaran(jari_jari):
+    luas = 3.14159 * (jari_jari ** 2)
+    return luas
+
+# Menghitung keliling lingkaran
+def hitung_keliling_lingkaran(jari_jari):
+    keliling = 2 * 3.14159 * jari_jari
+    return keliling
+
+# Input jari-jari lingkaran dari pengguna
+jari_jari = float(input("Masukkan panjang jari-jari lingkaran: "))
+
+# Memanggil fungsi untuk menghitung luas dan keliling
+luas = hitung_luas_lingkaran(jari_jari)
+keliling = hitung_keliling_lingkaran(jari_jari)
+
+# Menampilkan hasil
+print(f"Luas lingkaran dengan jari-jari {jari_jari} adalah {luas:.2f}")
+print(f"Keliling lingkaran dengan jari-jari {jari_jari} adalah {keliling:.2f}")
