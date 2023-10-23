@@ -6,4 +6,4 @@
 + <p>screenshot hasil eksekusi program<p>
 + <p>Simpan project Praktikum hari ini ke repository server (github).<p>
 
-![ss](https://github.com/Rauleee/Praktikum.3/assets/147376311/e04b7eb7-ed4c-472d-86b0-b8538deec8f5)
+![ss](https://github.com/Rauleee/Praktikum.3/assets/147376311/19bc1380-0e39-4417-ad48-063c325f8b35)
